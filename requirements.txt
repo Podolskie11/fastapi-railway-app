@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+google-cloud-vision
+google-cloud-texttospeech
+ultralytics
+opencv-python-headless
+numpy
+requests
+python-dotenv
